@@ -1,0 +1,20 @@
+# Python virtual environment
+olive-env/
+
+# Olive cache & outputs
+.olive-cache/
+auto-opt-output/
+
+# Downloaded models
+models/
+
+# Gradio cache
+.gradio/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

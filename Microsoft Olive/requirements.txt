@@ -1,0 +1,38 @@
+# Core Olive AI
+olive-ai[all]
+
+# Hugging Face ecosystem
+transformers
+accelerate
+datasets
+tokenizers
+
+# ONNX & Runtime
+onnx
+onnxruntime
+onnxruntime-genai
+
+# PyTorch (required by Olive & Transformers)
+torch
+torchvision
+torchaudio
+
+# Azure ML integration
+azure-ai-ml
+azure-identity
+azure-storage-blob
+
+# Performance & optimization
+numpy
+scipy
+psutil
+tqdm
+
+# Serialization & configs
+pyyaml
+pydantic
+
+# Logging & utilities
+rich
+packaging
+requests
